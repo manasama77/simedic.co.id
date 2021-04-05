@@ -1,0 +1,876 @@
+body {
+    color: %3$s;
+}
+
+abbr[title] {
+    border-bottom-color: %3$s;
+}
+
+.tags-links a {
+    color: %3$s;
+}
+
+.comment-metadata >  a {
+    color: %3$s;
+}
+
+.widget_tag_cloud a {
+    color: %3$s;
+}
+
+.contrast pre {
+    color: %3$s; !important;
+    background-color: #ffffff !important;
+}
+
+.contrast .mt-doctor-info {
+    color: %3$s; !important;
+}
+
+.contrast .mt-post .post-date {
+    color: %3$s; !important;
+}
+
+.contrast .accordion { color: %3$s; !important; }
+
+.contrast .testimonial {
+    color: %3$s; !important;
+}
+
+/* #1a171c - Header Color */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: %4$s;;
+}
+
+q,
+blockquote {
+    color: %4$s;;
+}
+
+.open-hours p strong {
+    color: %4$s;;
+}
+
+.sf-menu > li > a,
+.sf-menu > li.dropdown > a {
+    color: %4$s;;
+}
+
+#back-to-top {
+    background-color: %4$s;;
+}
+
+.post-format {
+    color: %4$s;;
+}
+
+.page-links {
+    color: %4$s;;
+}
+
+.post-navigation .nav-subtitle {
+    color: %4$s;;
+}
+
+.no-comments,
+.comment-awaiting-moderation {
+    color: %4$s;;
+}
+
+#wp-calendar th {
+    color: %4$s;;
+}
+
+.widget_rss cite {
+    color: %4$s;;
+}
+
+.contrast .mt-post a:active {
+    color: %4$s; !important;
+}
+
+.contrast .accordion a:active { color: %4$s; !important; }
+
+.contrast .doctor-profile h6 {
+    color: %4$s; !important;
+}
+
+.contrast .mt-doctor-info a.btn:active {
+    background-color: %4$s; !important;
+    border-color: %4$s; !important;
+    color: #ffffff !important;
+}
+
+.contrast .testimonial h6 {
+    color: %4$s; !important;
+}
+
+/* #cc263d - Accent Color 1 */
+
+.text-accent-color { color: %1$s;; }
+
+input[type="reset"],
+input[type="submit"],
+input[type="button"]{
+    border-color: %1$s;;
+    background-color: %1$s;;
+}
+
+input[type="reset"]:hover,
+input[type="submit"]:hover,
+input[type="button"]:hover,
+input[type="reset"]:focus,
+input[type="submit"]:focus,
+input[type="button"]:focus {
+    background-color: #ffffff;
+    color: %1$s;;
+}
+
+a.btn {
+    border-color: %1$s;;
+    background-color: %1$s;;
+    color: #ffffff;
+}
+
+.icon-box > i {
+    color: %1$s;;
+}
+
+.doctor-profile-summary-details-trigger {
+    background-color: %1$s;;
+}
+
+.testimonial:before {
+    color: #ffffff;
+    background-color: %1$s;;
+}
+
+.rooms-slider .rooms-slider-dots .slick-dots li.slick-active button {
+    background-color: %1$s;;
+}
+
+.medical-specialties  i {
+    color: %1$s;;
+}
+
+.medical-specialties li:hover i {
+    border-color: %1$s;;
+}
+
+.medical-specialties li:hover:after {
+    border-top-color: %1$s;;
+}
+
+.sf-menu > li a i {
+    color: %1$s;;
+}
+
+.sf-menu > li.current > a {
+    color: %1$s;;
+}
+
+.sf-menu li.dropdown ul {
+    background-color: %1$s;;
+}
+
+.sf-mega {
+    background-color: %1$s;;
+    color: #ffffff;
+}
+
+#mobile-menu {
+    background-color: %1$s;;
+}
+
+#custom-search-button {
+    color: %1$s;;
+}
+
+#page-header p:before {
+    border-top-color: %1$s;;
+}
+
+#footer-bottom {
+    background-color: %8$s;;
+}
+
+.intro-section {
+    border-bottom-color: %1$s;;
+}
+
+.open-hours-section .open-hours {
+    background-color: %1$s;;
+}
+
+.post-meta:before {
+    border-top-color: %1$s;;
+}
+
+.author-bio-info  h6 .post-author  span {
+    border-bottom-color: %1$s;;
+}
+
+.widget_archive li a:before {
+    color: %1$s;;
+}
+
+.widget_categories li a:before {
+    color: %1$s;;
+}
+
+.widget_pages li a:before {
+    color: %1$s;;
+}
+
+.widget_meta li a:before {
+    color: %1$s;;
+}
+
+.widget_recent_entries ul li a:after {
+    border-bottom-color: %1$s;;
+}
+
+.widget_search .search-submit {
+    background-color: %1$s;;
+    border-color: %1$s;;
+}
+
+.widget_nav_menu li a:before {
+    color: %1$s;;
+}
+
+.mt-doctor {
+    border-bottom-color: %1$s; !important;
+}
+
+.mt-doctor-info  h6 span {
+    border-bottom-color: %1$s;;
+}
+
+.mt-post {
+    border-bottom-color: %1$s; !important;
+}
+
+.mt-post.has-post-thumbnail {
+    border-bottom-color: %1$s;;
+}
+
+.contrast input[type="reset"],
+.contrast input[type="submit"],
+.contrast input[type="button"] {
+    background-color: %1$s; !important;
+    border-color: %1$s; !important;
+    color: #ffffff !important;
+}
+
+.contrast a.btn {
+    background-color: %1$s; !important;
+    border-color: %1$s; !important;
+    color: #ffffff !important;
+}
+
+.contrast #wp-calendar tbody td a {
+    background-color: %1$s; !important;
+}
+
+.contrast #wp-calendar tbody td a {
+    background-color: %1$s; !important;
+}
+
+.contrast .widget_search .search-submit {
+    background-color: %1$s; !important;
+    border-color: %1$s; !important;
+    color: #ffffff !important;
+}
+
+.contrast .mt-doctor {
+    border: 0 !important;
+    border-bottom-color: %1$s; !important;
+}
+
+.contrast .mt-post {
+    border: 0 !important;
+    border-bottom-color: %1$s; !important;
+}
+
+#mobile-menu-trigger i {
+    color: %1$s;;
+}
+
+/* #364d7c - Accent Color 2 */
+
+.text-accent-color-2 { color: %2$s; }
+
+.doctor-profile-summary-details-trigger.doctor-profile-summary-details-shown {
+    background-color: %2$s;
+    color: #ffffff;
+}
+
+.testimonial-slider .testimonial-slider-pagination a {
+    color: #ffffff;
+    background-color: %2$s;
+}
+
+#footer {
+    background-color: %6$s;
+}
+
+#footer p,
+#footer a {
+    color:%7$s;
+}
+
+#back-to-top:hover { background-color: %2$s; }
+
+#open-hours-section {
+    background-color: %2$s;
+}
+
+#explore-hospital-section {
+    background-color: %2$s;
+}
+
+.pagination .page-numbers.current {
+    background-color: %2$s;
+    color: #ffffff;
+}
+
+#wp-calendar caption {
+    background-color: %2$s;
+}
+
+#wp-calendar  tbody td a {
+    background-color: %2$s;
+    color: #ffffff;
+}
+
+#footer-bottom.contrast .widget_search .search-submit {
+    background-color: %2$s; !important;
+    border-color: %2$s; !important;
+}
+
+.contrast .mt-post a {
+    color: %2$s; !important;
+}
+
+.contrast .accordion a { color: %2$s; !important; }
+
+.contrast .testimonial-slider .testimonial-slider-pagination a {
+    background-color: %2$s; !important;
+    color: #ffffff;
+}
+
+/* #364d7c - Link Color */
+
+a { color: %2$s;	}
+
+/* #e11931 - Link Color :hover/:focus */
+
+a:focus { color: %10$s; }
+
+a:hover { color: %10$s; }
+
+a.btn:focus,
+a.btn:hover {
+    border-color: %10$s;
+    background-color: #ffffff;
+    color: %10$s;
+}
+
+a.social-icon:hover,
+a.social-icon:focus {
+    color: #ffffff;
+    background-color: %10$s;
+    border-color: %10$s;
+}
+
+.accordion-item.active span:after {
+    border-bottom-color: %10$s;
+}
+
+.doctor-profile-summary-details-trigger:hover {
+    background-color: #e11931 ;
+    color: #ffffff;
+}
+
+.testimonial-slider .testimonial-slider-pagination a:hover {
+    background-color: %10$s;
+}
+
+.sf-menu > li.sfHover > a:hover,
+.sf-menu > li > a:hover {
+    color: %10$s;
+}
+
+.tags-links a:hover{
+    border-color: %10$s;
+    background-color: %10$s;
+    color: #ffffff;
+}
+
+#wp-calendar  tbody td a:hover {
+    background-color: %10$s;
+}
+
+.widget_search .search-submit:hover,
+.widget_search .search-submit:focus {
+    background-color: %10$s;
+    border-color: %10$s;
+    color: #ffffff;
+}
+
+.widget_tag_cloud a:hover{
+    background-color: %10$s;
+    color: #ffffff;
+    border-color: %10$s;
+}
+
+.mt-post.has-post-thumbnail a:hover,
+.mt-post.has-post-thumbnail a:focus {
+    color: %10$s;
+}
+
+.contrast input[type="reset"]:hover,
+.contrast input[type="submit"]:hover,
+.contrast input[type="button"]:hover,
+.contrast input[type="reset"]:focus,
+.contrast input[type="submit"]:focus,
+.contrast input[type="button"]:focus {
+    background-color: #ffffff !important;
+    border-color: #ffffff !important;
+    color: #e11931 !important;
+}
+
+.contrast a.btn:focus,
+.contrast a.btn:hover {
+    background-color: #ffffff !important;
+    border-color: #ffffff !important;
+    color: #e11931 !important;
+}
+
+.contrast .widget_search .search-submit:hover,
+.contrast .widget_search .search-submit:focus {
+    background-color: #e11931 !important;
+    border-color: #e11931 !important;
+    color: #ffffff !important;
+}
+
+.contrast .mt-post a:hover,
+.contrast .mt-post a:focus {
+    color: #e11931 !important;
+}
+
+.contrast .mt-post.has-post-thumbnail a:focus { color: #e11931 !important; }
+.contrast .mt-post.has-post-thumbnail a:hover { color: #e11931 !important; }
+
+.contrast .accordion a:focus { color: #e11931 !important; }
+.contrast .accordion a:hover { color: #e11931 !important; }
+
+.contrast .mt-doctor-info a.btn:hover,
+.contrast .mt-doctor-info a.btn:focus {
+    border-color: #e11931 !important;
+    background-color: #ffffff !important;
+    color: #e11931 !important;
+}
+
+.contrast .testimonial-slider .testimonial-slider-pagination a:hover {
+    background-color: #e11931 !important;
+}
+
+/* #1a171c - Link Color :active */
+
+a:active { color: #1a171c; }
+
+input[type="reset"]:active,
+input[type="submit"]:active,
+input[type="button"]:active {
+    border-color: #1a171c;
+    background-color: #1a171c;
+    color: #ffffff;
+}
+
+a.btn:active {
+    border-color: #1a171c;
+    background-color: #1a171c;
+    color: #ffffff;
+}
+
+a.social-icon:active {
+    color: #ffffff;
+    background-color: #1a171c;
+    border-color: #1a171c;
+}
+
+.widget_search .search-submit:active {
+    background-color: #1a171c;
+    border-color: #1a171c;
+    color: #ffffff;
+}
+
+.mt-post.has-post-thumbnail a:active {
+    color: #1a171c;
+}
+
+.contrast input[type="reset"]:active,
+.contrast input[type="submit"]:active,
+.contrast input[type="button"]:active {
+    border-color: #1a171c !important;
+    background-color: #1a171c !important;
+    color: #ffffff !important;
+}
+
+.contrast a.btn:active {
+    border-color: #1a171c !important;
+    background-color: #1a171c !important;
+    color: #ffffff !important;
+}
+
+.contrast .widget_search .search-submit:active {
+    background-color: #1a171c !important;
+    border-color: #1a171c !important;
+    color: #ffffff !important;
+}
+
+.contrast .mt-post.has-post-thumbnail a:active { color: #1a171c !important; }
+
+/* #e1e1e1 - Borders */
+
+select {
+    border-color: #e1e1e1;
+}
+
+hr {
+    background-color: #e1e1e1;
+}
+
+table,
+th,
+td { border: 1px solid #e1e1e1; }
+
+a.social-icon {
+    border-color: #e1e1e1;
+}
+
+.open-hours h4 {
+    border-bottom-color: #e1e1e1;
+}
+
+.accordion-item-content {
+    border-top-color: #e1e1e1;
+}
+
+.medical-specialties  i {
+    border-color: #e1e1e1;
+}
+
+@media (min-width: 768px) {
+
+    .medical-specialties {
+        border-bottom-color: #e1e1e1;
+    }
+
+}
+
+#custom-search-form:before {
+    border-bottom-color: #e1e1e1;
+}
+
+#custom-search-form #s:focus { border-color: #e1e1e1; }
+
+.post-meta {
+    border-top-color: #e1e1e1;
+}
+
+#wp-calendar tbody td:not(.pad) {
+    border-color: #e1e1e1;
+}
+
+.widget_recent_entries ul li {
+    border-bottom-color: #e1e1e1;
+}
+
+.tags-links a {
+    border-color: #e1e1e1;
+}
+
+.author-bio {
+    border-color: #e1e1e1;
+}
+
+.author-bio-info  h6 {
+    border-bottom-color: #e1e1e1;
+}
+
+@media (max-width: 767px) {
+
+    .author-bio-info  h6 .post-author {
+        border-bottom-color: #e1e1e1;
+    }
+
+}
+
+.comment  .comment-body {
+    border-top-color: #e1e1e1;
+}
+
+#comment-nav-above {
+    border-bottom-color: #e1e1e1;
+}
+
+#comment-nav-below {
+    border-top-color: #e1e1e1;
+}
+
+.widget_tag_cloud a {
+    border-color: #e1e1e1;
+}
+
+.mt-doctor {
+    border-color: #e1e1e1;
+}
+
+.mt-doctor-info  h6 {
+    border-bottom-color: #e1e1e1;
+}
+
+.mt-post {
+    border-color: #e1e1e1;
+}
+
+/* #777777 - Input text color */
+
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="month"],
+input[type="week"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+input[type="color"],
+textarea {
+    color: #777777;
+}
+
+select {
+    color: #777777;
+}
+
+/* #abaab2 - Input placeholder color */
+
+::-webkit-input-placeholder { color: #abaab2; }
+
+:-moz-placeholder { color: #abaab2; }
+
+::-moz-placeholder { color: #abaab2; }
+
+:-ms-input-placeholder {	color: #abaab2; }
+
+/* #e1e1e1 - Input border color */
+
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="month"],
+input[type="week"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+input[type="color"],
+textarea {
+    border-color: #e1e1e1;
+}
+
+/* #949eb2 - Input border color :focus */
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="date"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="month"]:focus,
+input[type="week"]:focus,
+input[type="email"]:focus,
+input[type="number"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="time"]:focus,
+input[type="url"]:focus,
+input[type="color"]:focus,
+textarea:focus {
+    border-color: #949eb2;
+}
+
+select:focus { border-color: #949eb2; }
+
+/* #f1b7be - Input border color :invalid */
+
+input[type="text"]:invalid,
+input[type="password"]:invalid,
+input[type="date"]:invalid,
+input[type="datetime"]:invalid,
+input[type="datetime-local"]:invalid,
+input[type="month"]:invalid,
+input[type="week"]:invalid,
+input[type="email"]:invalid,
+input[type="number"]:invalid,
+input[type="search"]:invalid,
+input[type="tel"]:invalid,
+input[type="time"]:invalid,
+input[type="url"]:invalid,
+input[type="color"]:invalid,
+textarea:invalid {
+    border-color: #f1b7be;
+}
+
+/* #f9f9fa - Page Header Background color, section background colors */
+
+pre {
+    background-color: #f9f9fa;
+}
+
+.accordion-item {
+    background-color: #f9f9fa;
+}
+
+.accordion-item-content {
+    background-color: #f9f9fa;
+}
+
+#page-header {
+    background-color: #f9f9fa;
+}
+
+#intro-section {
+    background-color: #f9f9fa;
+}
+
+#appointments-section {
+    background-color: #f9f9fa;
+}
+
+#our-doctors-section {
+    background-color: #f9f9fa;
+}
+
+#testimonials-section {
+    background-color: #f9f9fa;
+}
+
+.comments-wrap {
+    background-color: #f9f9fa;
+}
+
+/* #d1d5de - Text Color - CONTRAST */
+
+.contrast {
+    color: %5$s;
+}
+
+.contrast abbr[title] {
+    border-bottom-color: %5$s;
+}
+
+.contrast abbr[title] {
+    border-bottom-color: %5$s;
+}
+
+/* #ffffff - Header Color - CONTRAST */
+
+.contrast h1,
+.contrast h2,
+.contrast h3,
+.contrast h4,
+.contrast h5,
+.contrast h6 {
+    color: %5$s;
+}
+
+/* #ededef - Link Color - CONTRAST */
+
+.contrast a { color: #ededef; }
+
+/* #e11931 - Link :hover / :focus Color - CONTRAST */
+
+.contrast a:focus { color: %10$s; }
+
+.contrast a:hover { color: %10$s; }
+
+#footer-bottom.contrast a:focus { color: #ffffff; }
+
+#footer-bottom.contrast a:hover { color: #ffffff; }
+
+/* #ffffff - Link :active color - CONTRAST */
+
+.contrast a:active { color: #1a171c; }
+
+/* other */
+
+.sf-menu a {
+    color: #ffffff;
+}
+
+.contrast a.social-icon { border-color: rgba(255,255,255,0.3); }
+
+.contrast a.social-icon:hover {
+    color: #ffffff;
+}
+
+.contrast #wp-calendar th {
+    color: #ffffff;
+}
+
+.contrast .widget_rss cite {
+    color: #ffffff;
+}
+
+.contrast .widget_tag_cloud a {
+    color: #ffffff;
+}
+
+.contrast .widget_tag_cloud a:hover{
+    color: #ffffff;
+}
+
+.contrast .mt-post.has-post-thumbnail .post-date {
+    color: #ffffff;
+}
+
+.contrast .accordion-item { background-color: #ffffff; }
+.contrast .accordion-item-content { background-color: #ffffff; }
+
+.contrast .icon-box > i {
+    color: #ffffff;
+}
+
+.contrast .doctor-profile {
+    background-color: #ffffff;
+}
+
+.contrast .medical-specialties {
+    border-color: rgba(255,255,255,0.3);
+}
+
+.contrast .medical-specialties i {
+    background-color: #ffffff;
+}
+
+#footer-bottom p{
+    color: %9$s;
+}

@@ -1,0 +1,14 @@
+.disabled {
+    display:none !important;
+}
+
+.wpmslider-controls.disabled {
+    display: block !important;
+}
+
+/*  Compatibility with metaslider pro layers display
+----------------------------------------------------*/
+
+.msHtmlOverlay .layer .disabled {
+    display: block !important;
+}

@@ -1,0 +1,20 @@
+/**
+ * KBS Admin CSS
+ *
+ * @package     KBS
+ * @subpackage  Admin CSS
+ * @copyright   Copyright (c) 2020, Mike Howard
+ * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+ */
+
+.kbs-ticket-counter {
+    display: inline;
+    padding: 1px 7px 1px 6px !important;
+    border-radius: 50% !important;
+	background-color: #ca4a1f;
+	color: #fff;
+}
+
+.ab-icon.dashicons.dashicons-sos    {
+    padding-top: 5px !important;
+}
